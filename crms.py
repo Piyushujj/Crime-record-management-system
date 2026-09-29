@@ -2,7 +2,7 @@ import mysql.connector
 from datetime import date, datetime
 import re
 import sys
-# ---------------- DB CONNECTION ----------------
+
 
 DB_CONFIG = {
     "host": "localhost",
